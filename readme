@@ -5,3 +5,9 @@ any questions, create an issue.
 for now, the current release will be available at https://files.catbox.moe/boo4aq.7z and will have the various homebrew components updated on a sort-of-regular basis. (iow, when I can summon enough shits to give) until I have the better method in place.
 
 the linked version has atmosphere 0.8.9, and a very slimmed down set of essential utilities. fully compatible with 8.0.1 and earlier (sysmodules may not work on earlier firmwares).
+
+* tinfoil-88 (last known working version of og tinfoil, solid USB installer for most games)
+* goldleaf 0.5 (less solid USB installer for games that may be too new for tinfoil-88)
+* nx-shell 1.20 (file manager)
+* edizon 3.0.1 (save manager, cheats)
+* hb appstore
